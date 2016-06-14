@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Enjoy</string>
+    <string name="tab_home">主页</string>
+    <string name="tab_message">消息中心</string>
+    <string name="tab_shop">购物</string>
+    <string name="tab_find">吃喝玩乐</string>
+    <string name="tab_me">我的</string>
+</resources>
